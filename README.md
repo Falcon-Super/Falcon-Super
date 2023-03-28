@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -20,6 +19,7 @@
   <img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
@@ -74,6 +74,6 @@
 
 ### • GitHub Stats
 <p aligh="left">
-  <img align="left" alt="Falcon-Super's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Falcon-Super&count_private=true&show_icons=true&locale=en&theme=dracula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Falcon-Super&theme=dracula&show_icons=true&locale=en&layout=compact&hide=tcl"/>
+  <img align="left" alt="Falcon-Super's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Falcon-Super&count_private=true&show_icons=true&locale=en&theme=calm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Falcon-Super&theme=calm&show_icons=true&locale=en&layout=compact&hide=tcl"/>
 </p>
