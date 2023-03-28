@@ -74,6 +74,6 @@
 
 ### • GitHub Stats
 <p aligh="left">
-  <img align="left" alt="Falcon-Super's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Falcon-Super&count_private=true&show_icons=true&locale=en&theme=onedark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Falcon-Super&theme=onedark&show_icons=true&locale=en&layout=compact&hide=tcl"/>
+  <img align="left" alt="Falcon-Super's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Falcon-Super&count_private=true&show_icons=true&locale=en&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Falcon-Super&theme=dracula&show_icons=true&locale=en&layout=compact&hide=tcl"/>
 </p>
